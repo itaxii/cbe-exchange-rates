@@ -1,7 +1,7 @@
 [
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "USD",
     "currency_name": "US Dollar",
     "buy_rate": 50.9639,
@@ -11,7 +11,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "EUR",
     "currency_name": "Euro",
     "buy_rate": 58.2007,
@@ -21,7 +21,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "GBP",
     "currency_name": "Pound Sterling",
     "buy_rate": 68.3782,
@@ -31,7 +31,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "CAD",
     "currency_name": "Canadian Dollar",
     "buy_rate": 36.2448,
@@ -41,7 +41,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "DKK",
     "currency_name": "Danish Krone",
     "buy_rate": 7.7849,
@@ -51,7 +51,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "NOK",
     "currency_name": "Norwegian Krone",
     "buy_rate": 5.2947,
@@ -61,7 +61,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "SEK",
     "currency_name": "Swedish Krona",
     "buy_rate": 5.2683,
@@ -71,7 +71,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "CHF",
     "currency_name": "Swiss Franc",
     "buy_rate": 62.9028,
@@ -81,7 +81,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "JPY",
     "currency_name": "Japanese Yen 100",
     "buy_rate": 31.3257,
@@ -91,7 +91,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "SAR",
     "currency_name": "Saudi Riyal",
     "buy_rate": 13.5744,
@@ -101,7 +101,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "KWD",
     "currency_name": "Kuwaiti Dinar",
     "buy_rate": 165.6015,
@@ -111,7 +111,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "AED",
     "currency_name": "UAE Dirham",
     "buy_rate": 13.8756,
@@ -121,7 +121,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "AUD",
     "currency_name": "Australian Dollar",
     "buy_rate": 35.7664,
@@ -131,7 +131,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "BHD",
     "currency_name": "Bahraini Dinar",
     "buy_rate": 135.1289,
@@ -141,7 +141,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "OMR",
     "currency_name": "Omani Riyal",
     "buy_rate": 132.3496,
@@ -151,7 +151,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "QAR",
     "currency_name": "Qatari Riyal",
     "buy_rate": 13.9799,
@@ -161,7 +161,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "JOD",
     "currency_name": "Jordanian Dinar",
     "buy_rate": 71.7801,
@@ -171,7 +171,7 @@
   },
   {
     "rate_date": "2026-07-21",
-    "updated_at": "2026-07-22T01:39:36",
+    "updated_at": "2026-07-22T02:28:08",
     "currency_code": "CNY",
     "currency_name": "Chinese Yuan",
     "buy_rate": 7.5323,
