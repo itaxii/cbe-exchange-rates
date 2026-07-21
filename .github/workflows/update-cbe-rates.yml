@@ -1,6 +1,10 @@
 name: Update CBE exchange rates
 
 on:
+  # Run once whenever this workflow or project code changes.
+  push:
+    branches:
+      - main
   # GitHub Actions cron is UTC. 22:30 UTC is 12:30 AM Cairo time.
   schedule:
     - cron: "30 22 * * *"
