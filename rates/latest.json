@@ -1,0 +1,182 @@
+[
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "buy_rate": 51.014,
+    "sell_rate": 51.1526,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "buy_rate": 58.309,
+    "sell_rate": 58.4776,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "GBP",
+    "currency_name": "Pound Sterling",
+    "buy_rate": 68.7108,
+    "sell_rate": 68.9127,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "buy_rate": 36.3658,
+    "sell_rate": 36.4776,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "buy_rate": 7.8001,
+    "sell_rate": 7.8225,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "buy_rate": 5.2847,
+    "sell_rate": 5.3,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "buy_rate": 5.2789,
+    "sell_rate": 5.2946,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "buy_rate": 63.1283,
+    "sell_rate": 63.3076,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen 100",
+    "buy_rate": 31.4126,
+    "sell_rate": 31.4998,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "buy_rate": 13.5842,
+    "sell_rate": 13.6218,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "buy_rate": 165.8183,
+    "sell_rate": 166.3228,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "buy_rate": 13.8904,
+    "sell_rate": 13.9289,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "buy_rate": 35.7455,
+    "sell_rate": 35.8477,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "buy_rate": 135.2081,
+    "sell_rate": 135.6832,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "OMR",
+    "currency_name": "Omani Riyal",
+    "buy_rate": 132.4798,
+    "sell_rate": 132.8742,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "QAR",
+    "currency_name": "Qatari Riyal",
+    "buy_rate": 13.9937,
+    "sell_rate": 14.0336,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "JOD",
+    "currency_name": "Jordanian Dinar",
+    "buy_rate": 71.8507,
+    "sell_rate": 72.2494,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  },
+  {
+    "rate_date": "2026-07-20",
+    "updated_at": "2026-07-21T11:15:21",
+    "currency_code": "CNY",
+    "currency_name": "Chinese Yuan",
+    "buy_rate": 7.5385,
+    "sell_rate": 7.5593,
+    "source": "Central Bank of Egypt",
+    "source_url": "https://www.cbe.org.eg/en/economic-research/statistics/cbe-exchange-rates"
+  }
+]
